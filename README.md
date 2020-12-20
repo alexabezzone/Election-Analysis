@@ -1,4 +1,4 @@
-# Election-Analysis
+# PyPoll Election Analysis Challenge
 
 ## Overview of Election Audit
 Our team was assigned to aid the Colorado Board Of Elections employees in creating an election audit for the results of the U.S. congressional precinct election in Colorado. One of the employees asked our team to create an audit that presented the results of the congressional election. More specifically the congressional precinct in Colorado wanted to see the total number of votes, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the majority vote. To automate the process for the employees, we utilized Python to gather and create a vote count report to present the election results. After gathering the initial results of the election data, the precinct asked our team to gather additional information for the audit. We were asked to collect the voter turnout for each county, the percentage of votes from each county, and the county with the largest turnout. 
